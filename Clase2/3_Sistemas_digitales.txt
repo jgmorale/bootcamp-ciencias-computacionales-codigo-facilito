@@ -13,3 +13,6 @@ Esto nos da el beneficio de que hay menor variación en el proceso y no salga al
 Si quisieramos usar una representación diferente, tendríamos qué definir operaciones diferentes que también
 se puedan replicar en hardware, lo cual es mucho más dificil que las operaciones lógicas and, or, not, xor
 que actualmente se tienen.
+
+Calculo lambda:
+

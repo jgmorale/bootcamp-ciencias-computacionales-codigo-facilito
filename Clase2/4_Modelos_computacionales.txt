@@ -1,0 +1,19 @@
+Un modelo de  computación define 4 cosas:
+
+1. Como representar las entradas
+2. Como representar las salidas
+3. Que operaciones hay en el sistema
+4. Obtener las salidas a partir de las entradas y operaciones en el sistema
+
+Completitud según Turing:
+Todas las operaciones deben de ser computables en el sistema definido.
+El sistema binario con compuertas lógicas es un sistema con completitud de Turing.
+Libro de referencia: The Annotated Turing
+
+Características de los automatas finitos:
+Alfabeto de entrada
+Conjunto de estados
+Conjunto de relacion entre ellos
+Un estado inicial
+Un estado final
+
