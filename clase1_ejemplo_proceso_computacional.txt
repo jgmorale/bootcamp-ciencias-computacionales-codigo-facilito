@@ -1,0 +1,6 @@
+
+Ejercicio: Describe un proceso natural que se pueda modelar o entender como un proceso computacional
+
+Mi respuesta:
+Un cardumen de peces. La entrada sería la posición que adquiere el primer pez del cardumen, a lo que el cardumen computa la posición de todos los demás peces de manera propagativa. 
+La salida del proceso es el acomodo final de todos los peces con respecto a la dirección del primer pez.
