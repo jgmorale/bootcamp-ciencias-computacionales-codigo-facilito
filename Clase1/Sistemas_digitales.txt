@@ -1,0 +1,15 @@
+¿Qué sistema de símbolos usan las cosas digitales que tengo?
+
+- Sistema binario
+
+¿Por que la mayoria de las computadoras son digitales hoy?
+Porque si quisieramos utilizar otra base para representar, guardar y procesar la información, 
+tendríamos que encontrar una forma diferente en hardware para hacerlo diferente a 0s y 1s.
+En la actualidad, un 0 se guarda en memoria como un capacitor descargado con un voltaje cercano a 0,
+mientras que un 1 se representa como un capacitor cargado con un valor mayor a un threshold que está
+definido por el fabricante.
+Esto nos da el beneficio de que hay menor variación en el proceso y no salga algo más en el camino.
+
+Si quisieramos usar una representación diferente, tendríamos qué definir operaciones diferentes que también
+se puedan replicar en hardware, lo cual es mucho más dificil que las operaciones lógicas and, or, not, xor
+que actualmente se tienen.
