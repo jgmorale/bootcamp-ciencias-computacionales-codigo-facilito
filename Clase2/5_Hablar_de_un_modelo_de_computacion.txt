@@ -2,3 +2,10 @@
 Ejercicio: Hablar de un modelo de computación haciendo una investigación en internet
 
 
+Que tal este que se me ocurrió:
+Las aves y el clima de una región.
+Dependiendo del clima de la región las aves saben hacia donde ir.
+En este caso, lo veo como que el clima "opera" sobre la ubicación de las aves para cambiar su estado interno, que en este caso es la ubicación de las aves.
+Dependiendo de la ave en particular, es sí ésta o no puede desplazarse y también influye en cuánto se va a tardar.
+
+La información en este caso la veo como la ubicación de la ave.
